@@ -15,7 +15,7 @@ societal decisions and actions. Modeling is critical to enhancing
 analytical and decision-making capabilities for policy and planning,
 environmental management, resource investment, and security
 preparedness. We need a new generation of scientific computational
-models drawn from the social, ecological, biological, environmental, and
+models drawn from the social, ecological, biological, environmental, geographical, and
 geophysical sciences that can work together to provide an integrated
 representation of the complex world in which we now live. This vision
 can be realized through a common suite of standards, protocols, and best
@@ -131,7 +131,7 @@ exchanges and scaffolding, all modeling scientists should publically
 credit (normally through citation) the work of any other scientists that
 they use. In order to maintain the reliability and public reputation of
 modeling science, practitioners must document accurately model purposes,
-operations, inputs, boundaries, assumptions, and results. Modeling
+operations, inputs, boundaries, assumptions, and outputs. Modeling
 scientists are also strongly urged to make all models transparent and
 open to external examination, and to make their models openly accessible
 to others.
@@ -291,7 +291,7 @@ any new working groups must be approved by the Members Council.
 
 ### Cyberinfrastructure and Technical Support Staff
 
-The Cyberinfrastructure and Technical Support (CTS) staff coordinates development and management of the OMF Science Gateway, and online platform for collaborativec governance and standards. CTS works to to identify or develop tools and processes which serve to lower the technical barriers towards
+The Cyberinfrastructure and Technical Support (CTS) staff coordinates development and management of the OMF Science Gateway, and online platform for collaborativec governance and standards. CTS works to identify or develop tools and processes which serve to lower the technical barriers towards
 adoption of OMF standards, and ways to best deploy these tools to enable their use by modeling scientists. CTS staff assist the EOWG in developing online training modules and making them available on the OMF Gateway
 
 ### Affiliated Students Association
